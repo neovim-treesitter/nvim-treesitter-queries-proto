@@ -1,7 +1,7 @@
 {
-  "url": "https://github.com/coder3101/tree-sitter-proto",
-  "semver": false,
-  "lang": "proto",
+  "parser_version": "d65a18ce7c2242801f702770114ad08056c7f8c9",
   "location": null,
-  "parser_version": "d65a18ce7c2242801f702770114ad08056c7f8c9"
+  "lang": "proto",
+  "url": "https://github.com/coder3101/tree-sitter-proto",
+  "semver": false
 }
